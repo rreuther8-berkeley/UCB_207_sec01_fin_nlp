@@ -27,10 +27,12 @@ To understand how popular a post is on Reddit, we focus on the following metrics
 3.	Total Awards Received: This indicates how many awards the post has received from other users. Awards are typically given for posts that users find particularly valuable or noteworthy.
 4.	Num Comments: The number of comments can indicate the level of engagement and discussion the post has generated.
 5.	Num Crossposts: The number of times the post has been crossposted to other subreddits can indicate its relevance and popularity across different communities.
+
 Secondary metrics kept in dataset as they might also be valuable:
 •	Gilded: Indicates how many times the post has received Reddit Gold, a premium award.
 •	Is Video: Indicates if the post contains a video, which can be more engaging and thus popular.
 •	Is Original Content: Indicates if the post is original content, which can sometimes lead to higher engagement if the community values original posts.
+
 Less valuable for measuring popularity:
 •	Pinned: Indicates if the post is pinned by moderators, which doesn't necessarily reflect popularity but rather importance or relevance as determined by the moderators.
 •	Archived: Indicates if the post is archived and no longer open for new comments, which is more about the post's status than its popularity.
@@ -38,6 +40,7 @@ Less valuable for measuring popularity:
 •	Removed: Indicates if the post has been removed by moderators or the user, which means it’s not visible anymore and cannot be assessed for popularity.
 •	Deleted: Similar to removed, indicates the post has been deleted.
 •	Is Self: Indicates if the post is a self-post (text post) rather than a link post. This is more about the type of content rather than its popularity.
+
 By focusing on the primary metrics (upvote ratio, score, total awards received, number of comments, and number of cross posts), we can get a good sense of how popular a post is on Reddit, which we believe would indicate how relevant it is on the subject and how much it could be influential in market psychology.
 
 
