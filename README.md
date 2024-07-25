@@ -49,6 +49,8 @@ https://www.linkedin.com/pulse/what-makes-social-media-post-effective-/
 Create a dialogue between you and your audience by responding to comments, acknowledging contributions, thanking followers and building a sense of community.
 * timing
 
+# Relevant Research Questions
+
 Behavioral Science Topics:
 1.	Cognitive Biases:
 o	Understand how cognitive biases such as confirmation bias, recency effect, and social proof influence user engagement.
