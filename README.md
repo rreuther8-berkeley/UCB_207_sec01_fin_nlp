@@ -3,6 +3,11 @@
 ## Background
 This project explores the intersection of behavioral science and social media analytics, specifically utilizing data scraped from Reddit. Our primary objective is to assess what makes a post more engaging.
 
+Main metric: Engagement 
+
+We define engagement as upvotes + downvotes (calculated from difference between upvote and score) + Num comments + Num Crossposts
+
+Goal is to create build models that help find highly engagement posts, that can be used by advertisers who are looking to be featured in high engagement reddit posts. 
 
 ## Data source: Reddit
 There are over 50million logged-in users on reddit (Statista)
@@ -34,7 +39,6 @@ By focusing on the primary metrics (upvote ratio, score, total awards received, 
 https://everyonesocial.com/blog/how-i-made-it-onto-the-front-page-of-reddit/#:~:text=The%20point%20is%2C%20you%20need,true%20cream%20of%20the%20crop.
 
 Step 1: you need (and this is in very rough terms) ~4,000 upvotes in a period of less than 6hrs to make it to the front page.
-
 Step 2: Make sure it’s legit/check your sources
 Step 3 – Share your post in an appropriate Reddit community
 Step 3.5 - Think about the size of the community and the time you’re posting
@@ -49,7 +53,7 @@ https://www.linkedin.com/pulse/what-makes-social-media-post-effective-/
 Create a dialogue between you and your audience by responding to comments, acknowledging contributions, thanking followers and building a sense of community.
 * timing
 
-# Relevant Research Questions
+# Relevant Research Questions (Next level)
 
 Behavioral Science Topics:
 1.	Cognitive Biases:
