@@ -1,9 +1,9 @@
 # Reddit - Finance Posts
 
 ## Collaborators
-Carolina Gonzalez\\
-Ryan Reuther\\
-Clifton Harris\\
+Carolina Gonzalez\newline
+Ryan Reuther\newline
+Clifton Harris\newline
 Melody Masis
 
 ## Background
