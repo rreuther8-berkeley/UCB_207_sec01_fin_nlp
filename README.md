@@ -21,7 +21,7 @@ Reddit users are predominantly male, young, white, and well-educated: demographi
 
 ## Reddit Dataset metrics:
 To understand how popular a post is on Reddit, we focus on the following metrics:
-1.	Upvote Ratio: This is a measure of the percentage of upvotes versus downvotes a post receives. A higher upvote ratio indicates that the post is well-received by the community.
+1.	Upvote Ratio: This is a measure of the percentage of upvotes versus all posts a post receives. A higher upvote ratio indicates that the post is well-received by the community.
 2.	Score: The number of upvotes for the submission.
 3.	Total Awards Received: This indicates how many awards the post has received from other users. Awards are typically given for posts that users find particularly valuable or noteworthy.
 4.	Num Comments: The number of comments can indicate the level of engagement and discussion the post has generated.
