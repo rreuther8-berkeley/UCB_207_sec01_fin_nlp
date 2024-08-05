@@ -1,9 +1,9 @@
 # Reddit - Finance Posts
 
 ## Collaborators
-Carolina Gonzalez
-Ryan Reuther
-Clifton Harris
+Carolina Gonzalez\\
+Ryan Reuther\\
+Clifton Harris\\
 Melody Masis
 
 ## Background
@@ -45,9 +45,9 @@ By focusing on the primary metrics such as upvote ratio, score, total awards rec
 # How To Make It To The Front Page Of Reddit: 
 https://everyonesocial.com/blog/how-i-made-it-onto-the-front-page-of-reddit/#:~:text=The%20point%20is%2C%20you%20need,true%20cream%20of%20the%20crop.
 
-Step 1: you need (and this is in very rough terms) ~4,000 upvotes in a period of less than 6hrs to make it to the front page.
-Step 2: Make sure it’s legit/check your sources
-Step 3 – Share your post in an appropriate Reddit community
+Step 1: you need (and this is in very rough terms) ~4,000 upvotes in a period of less than 6hrs to make it to the front page.\\
+Step 2: Make sure it’s legit/check your sources\\
+Step 3 – Share your post in an appropriate Reddit community\\
 Step 3.5 - Think about the size of the community and the time you’re posting
 
 # What makes a social media post effective?
@@ -62,4 +62,4 @@ Create a dialogue between you and your audience by responding to comments, ackno
 
 # Relevant Research Questions (Next level)
 
-Further fine tuning of Bag of Words model
+Further fine tuning of Bag of Words model.
